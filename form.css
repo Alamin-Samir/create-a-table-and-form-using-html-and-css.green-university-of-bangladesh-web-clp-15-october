@@ -1,0 +1,70 @@
+.radio{
+
+
+
+display: flex;
+
+
+
+
+}
+
+
+.text{
+gap: 5px;
+
+  display: flex;  
+}
+
+.button{
+
+
+align-items: center;
+margin-left: 170px;
+
+color: aliceblue;
+background-color: orangered;
+}
+
+
+
+form{
+
+
+
+
+
+
+
+
+margin-left: 50px;
+
+}
+
+
+.domain{
+
+display: flex;
+
+
+
+}
+
+
+
+input{
+
+
+background-color:white;
+
+
+}
+
+
+*{
+
+background-color: rgb(232, 241, 241);
+
+
+
+}
